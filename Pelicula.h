@@ -1,6 +1,3 @@
-//
-// Created by Paul García on 03/06/21.
-//
 #include "Videos.h"
 #ifndef PROYECTOINTEGRADOR_PELICULA_H
 #define PROYECTOINTEGRADOR_PELICULA_H
