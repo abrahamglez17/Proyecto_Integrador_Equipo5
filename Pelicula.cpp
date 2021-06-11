@@ -1,7 +1,3 @@
-//
-// Created by Paul García on 03/06/21.
-//
-
 #include "Pelicula.h"
 #include <iostream>
 
