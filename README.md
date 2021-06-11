@@ -1,6 +1,6 @@
 # Proyecto_Integrador_Equipo5
 
-Este es nuestro repositorio para nuestro proyecto integrador para nuestra materia de Programación Orientada a Objetos.
+Este es nuestro repositorio para nuestro proyecto integrador para la materia de Programación Orientada a Objetos.
 
 ## Integrantes del equipo: 
 
