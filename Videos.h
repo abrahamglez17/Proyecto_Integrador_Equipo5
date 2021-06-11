@@ -1,6 +1,3 @@
-//
-// Created by Paul García on 03/06/21.
-//
 #include <string>
 using namespace std;
 #ifndef PROYECTOINTEGRADOR_VIDEOS_H
