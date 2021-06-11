@@ -1,6 +1,3 @@
-//
-// Created by Paul García on 03/06/21.
-//
 
 #include "Videos.h"
 #include <iostream>
